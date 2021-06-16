@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.mergets.1.6.0</namespace>
+    <virtualFolder>MergeTs</virtualFolder>
+    <customFilter name="MergeTs 1.6.0">
+        <filterAttribute>MergeTs</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>MergeTs</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="MergeTs Manual" ref="index.html">
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="MergeTs" id="CIOS::MergeTs" ref="index.html#MergeTs"/>
+            <keyword id="CIOS::MergeTs" ref="index.html#MergeTs"/>
+        </keywords>
+        <files>
+            <file>classic.css</file>
+            <file>*.html</file>
+            <file>tw/*.html</file>
+            <file>cn/*.html</file>
+        </files>
+    </filterSection>
+</QtHelpProject>

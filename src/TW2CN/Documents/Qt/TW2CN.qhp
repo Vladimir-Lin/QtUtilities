@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.tw2cn.1.6.0</namespace>
+    <virtualFolder>TW2CN</virtualFolder>
+    <customFilter name="Traditional Chinese to Simplified Chinese 1.6.0">
+        <filterAttribute>TW2CN</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>TW2CN</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="Traditional Chinese to Simplified Chinese Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="TW2CN" id="TW2CN::TW2CN" ref="tw/index.html#TW2CN"/>
+            <keyword id="TW2CN::TW2CN" ref="tw/index.html#TW2CN"/>
+        </keywords>
+        <files>
+            <file>classic.css</file>
+            <file>*.html</file>
+            <file>tw/*.html</file>
+            <file>en/*.html</file>
+            <file>cn/*.html</file>
+        </files>
+    </filterSection>
+</QtHelpProject>

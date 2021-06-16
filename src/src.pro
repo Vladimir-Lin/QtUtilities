@@ -1,0 +1,6 @@
+TEMPLATE = subdirs
+
+SUBDIRS += CN2TW
+SUBDIRS += TW2CN
+SUBDIRS += MergeTs
+SUBDIRS += NoComment
